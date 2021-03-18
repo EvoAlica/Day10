@@ -15,7 +15,4 @@ function myFunction(myObj, checkProp) {
   console.log(myFunction({title: "Titanic", song: "My Heart Will Go On", genre: "drama"}, "genre"));
   console.log(myFunction({title: "Titanic", song: "My Heart Will Go On", genre: "drama"}, "actor"));
   
-  
-  
-  
-  module.exports = myFunction;
+  module.exports = myFunction; 
